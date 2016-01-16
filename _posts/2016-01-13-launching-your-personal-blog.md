@@ -17,7 +17,7 @@ title: "Launching your personal blog"
 
 5. Once you are in Github page of this repository, click on a dropdown called `Branch`. See if there is a tick mark on `master`. If the branch dropdown has `gh-pages` or other values by default, skip this theme and pick another theme.
 
-6. On the right most side, parallel to `branch` there is `Fork`. Click on fork. It should show two options, i. github_username ii. Oragnisation_name. Click on the organisation option.
+6. On the right most side, parallel to `branch` there is `Fork`. Click on fork. It should show two options, **i. github_username ii. Oragnisation_name**. Click on the organisation option.
 
 7. You should see that the theme's code is copied to your account, with this link on top `MyAwesomeBlog/theme_name`.
 
