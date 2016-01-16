@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "Launching your personal blog"
-excerpt: "non-coder's version"
-tags: [blog]
-date: 2016-01-13
-comments: false
-
 ---
 `uses Github and Jekyll`
 
