@@ -3,21 +3,21 @@ title: "Launching your personal blog"
 ---
 `uses Github and Jekyll`
 
-1. Create a Github account. like.. 
+1. Create a Github account. With username like:
 
 `octocat{date_of_birth}`
 
-2. Click on the + sign near the display pic and create a new organisation for your blog.
+2. After signing up, in the github homepage, Click on the + sign near the display pic and create a new organisation for your blog.
 
 `MyAwesomeBlog`
 
-3. Look for themes online on `jekyllthemes.org` or `jekyllthemes.io`
+3. In a new tab, Look for themes online on `jekyllthemes.org` or `jekyllthemes.io`
 
 4. After you pick a theme, click homepage or you should find a link to the theme's github repository, click on that
 
-5. Once you are in Gihub looking into this repository, click on a dropdown called `Branch`. If you find `gh-pages` as an option, then this theme is meant for another type of setup. Skip this theme and look for a theme which has a `master` branch but not `gh-pages`.
+5. Once you are in Github page of this repository, click on a dropdown called `Branch`. See if there is a tick mark on `master`. If the branch dropdown has `gh-pages` or other values by default, skip this theme and pick another theme.
 
-6. On the right most side, parallel to `branch` there is `Fork`. Click on fork. It should show two options, 1. github_username 2. Oragnisation_name. Click on the organisation option.
+6. On the right most side, parallel to `branch` there is `Fork`. Click on fork. It should show two options, i. github_username ii. Oragnisation_name. Click on the organisation option.
 
 7. You should see that the theme's code is copied to your account, with this link on top `MyAwesomeBlog/theme_name`.
 
